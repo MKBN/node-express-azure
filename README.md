@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/mkbn/DevOps101/_apis/build/status/MKBN.node-express-azure?branchName=master)](https://dev.azure.com/mkbn/DevOps101/_build/latest?definitionId=2&branchName=master)
+
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
